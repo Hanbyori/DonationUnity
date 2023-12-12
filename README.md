@@ -20,7 +20,6 @@
 2. Url 부분에 연동할 서드파티 Alert Box URL 주소를 기입하세요.
 3. Token과 Version은 자동으로 기입됩니다.
 4. Twip의 도네이션은 ```TwipMessage.cs```에서, Toonation의 도네이션은 ```ToonationMessage.cs```에서 관리됩니다.
-
 </br></br>
 ## 📄 License
 MIT License
