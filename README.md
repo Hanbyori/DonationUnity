@@ -10,7 +10,7 @@
 </br></br>
 ## 🛠 Install
 1. Unity 플러그인 폴더(```Assets/Plugins```)에 ```websocket-sharp.dll```, ```Newtonsoft.Json.dll``` 추가
-2. Unity 프로젝트에 스크립트들 추가
+2. Unity 프로젝트에 스크립트들(```.cs```) 추가
 3. 오브젝트에 ```DonationManager``` 컴포넌트 추가
 </br></br>
 ## 📌 How to use
